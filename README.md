@@ -1,7 +1,7 @@
 
 # June 2025 Social Media Content Performance Dashboard
 
-Welcome to the official repository for my submission to the *Onyx Data + DataDNA June 2025 Challenge*!  
+Welcome to the official repository for my submission to the *Onyx Data June 2025 Challenge*!  
 This interactive dashboard was built using *Power BI* and explores what drives content performance across multiple social media platforms.
 
 ---
