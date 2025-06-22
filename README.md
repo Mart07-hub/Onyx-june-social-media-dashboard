@@ -40,7 +40,7 @@ The dataset consolidates post-level data from *TikTok, **Instagram, **LinkedIn, 
 
 ## 📁 Files Included
 
-- https://github.com/Mart07-hub/Onyx-june-social-media-dashboard/blob/main/Onyx%20June%20challenge.pbix - The Power BI report file you can open in Power BI Desktop
+-[Download the file] https://github.com/Mart07-hub/Onyx-june-social-media-dashboard/blob/main/Onyx%20June%20challenge.pbix - The Power BI report file you can open in Power BI Desktop
 
 ---
 
