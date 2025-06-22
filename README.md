@@ -10,7 +10,7 @@ This interactive dashboard was built using *Power BI* and explores what drives c
 
 The dataset consolidates post-level data from *TikTok, **Instagram, **LinkedIn, and **X.com* and includes:
 
-- Post types (video, carousel, text, etc.)
+- Post types (video, images, text, etc.)
 - Content categories (product promotion, educational, entertainment)
 - Publishing times and dates
 - Hashtag usage
