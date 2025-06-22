@@ -40,14 +40,14 @@ The dataset consolidates post-level data from *TikTok, **Instagram, **LinkedIn, 
 
 ## 📁 Files Included
 
-- Onyx_June_Dashboard.pbix – The Power BI report file you can open in Power BI Desktop
+- Onyx June challenge.pbix- The Power BI report file you can open in Power BI Desktop
 
 ---
 
 ## 🖥 How to Explore
 
 1. Download the .pbix file
-2. Open with *Power BI Desktop (free)*
+2. Open with Power BI Desktop
 3. Explore filters, slicers, and metrics on each page
 
 ---
